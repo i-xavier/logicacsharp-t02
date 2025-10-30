@@ -1,0 +1,14 @@
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\bin\Debug\net8.0\variaveisEconstantes.exe
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\bin\Debug\net8.0\variaveisEconstantes.deps.json
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\bin\Debug\net8.0\variaveisEconstantes.runtimeconfig.json
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\bin\Debug\net8.0\variaveisEconstantes.dll
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\bin\Debug\net8.0\variaveisEconstantes.pdb
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.AssemblyInfoInputs.cache
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.AssemblyInfo.cs
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.dll
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\refint\variaveisEconstantes.dll
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.pdb
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\variaveisEconstantes.genruntimeconfig.cache
+C:\Users\igor.xsantos1\source\repos\variaveisEconstantes\obj\Debug\net8.0\ref\variaveisEconstantes.dll
