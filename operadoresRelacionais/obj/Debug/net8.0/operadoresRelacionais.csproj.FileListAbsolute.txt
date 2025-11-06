@@ -1,0 +1,15 @@
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\bin\Debug\net8.0\operadoresRelacionais.exe
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\bin\Debug\net8.0\operadoresRelacionais.deps.json
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\bin\Debug\net8.0\operadoresRelacionais.runtimeconfig.json
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\bin\Debug\net8.0\operadoresRelacionais.dll
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\bin\Debug\net8.0\operadoresRelacionais.pdb
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.AssemblyInfoInputs.cache
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.AssemblyInfo.cs
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.sourcelink.json
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.dll
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\refint\operadoresRelacionais.dll
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.pdb
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\operadoresRelacionais.genruntimeconfig.cache
+C:\Users\igor.xsantos1\source\repos\operadoresRelacionais\obj\Debug\net8.0\ref\operadoresRelacionais.dll

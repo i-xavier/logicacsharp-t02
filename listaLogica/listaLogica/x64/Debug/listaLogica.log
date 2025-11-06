@@ -1,0 +1,3 @@
+﻿  listaLogica.cpp
+C:\Users\igor.xsantos1\source\repos\listaLogica\listaLogica.cpp(12,9): warning C4101: 'i': variável local não referenciada
+  listaLogica.vcxproj -> C:\Users\igor.xsantos1\source\repos\listaLogica\x64\Debug\listaLogica.exe

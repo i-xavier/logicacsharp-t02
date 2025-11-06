@@ -1,0 +1,15 @@
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.exe
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.deps.json
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.runtimeconfig.json
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.dll
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.pdb
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.AssemblyInfo.cs
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.sourcelink.json
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.dll
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\refint\operadoresLogicos.dll
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.pdb
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.genruntimeconfig.cache
+C:\Users\igor.xsantos1\source\repos\operadoresLogicos\obj\Debug\net8.0\ref\operadoresLogicos.dll
