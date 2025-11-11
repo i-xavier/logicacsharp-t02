@@ -1,6 +1,8 @@
 ﻿//Condicionail IF
+using System.ComponentModel.Design;
+
 string nome = "";
-/*
+
 if (nome == "Ana")
 {
     Console.WriteLine("Olá, Ana!");
@@ -8,7 +10,7 @@ if (nome == "Ana")
 
 if(string.IsNullOrEmpty(nome)) {
     Console.WriteLine("A string está vazia.");
-}*/
+}
 
 // Condicional IF/ELESE
 int idade = 16;
@@ -32,3 +34,62 @@ else
 {
     Console.WriteLine("O numero é ímpar.\n");
 }
+
+//Condicional usando else if
+double nota = 2;
+
+if (nota >= 9.0)
+{
+    Console.WriteLine("Você obteve uma ótima nota! Aprovado com distinção.");
+}
+
+else if (nota >= 7.0)
+{
+    Console.WriteLine("Você está aprovado.");
+}
+else if (nota >= 5.0)
+{
+    Console.WriteLine("Você está em recuperação.");
+}
+else if (nota >= 3.0)
+{
+    Console.WriteLine("Você está com risco de reprovação.");
+}
+else
+{
+    Console.WriteLine("Você está reprovado.");
+}
+
+double pontuacao = 9.4;
+
+
+int faixaNota = (int) Math.Round(pontuacao);
+
+switch (faixaNota)
+{
+        case 10: {
+            Console.WriteLine("Você obteve uma ótima nota! Aprovado com distinção.");
+            break;
+        }
+        case 9: case 8:
+        {
+            Console.WriteLine("Você está aprovado.");
+            break;
+        }
+        case 7: case 6:
+            {
+                Console.WriteLine("Você está em recuperação.");
+                break;
+            }
+        case 5: case 4: case 3:
+            {
+                Console.WriteLine("Você está com risco de reprovação.");
+                break;
+            }
+
+        default:
+            {
+                Console.WriteLine("Você está reprovado");
+                break;
+            }
+        }
