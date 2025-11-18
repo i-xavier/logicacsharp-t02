@@ -1,0 +1,15 @@
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\bin\Debug\net8.0\vetoresMatrizes.exe
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\bin\Debug\net8.0\vetoresMatrizes.deps.json
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\bin\Debug\net8.0\vetoresMatrizes.runtimeconfig.json
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\bin\Debug\net8.0\vetoresMatrizes.dll
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\bin\Debug\net8.0\vetoresMatrizes.pdb
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.AssemblyInfoInputs.cache
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.AssemblyInfo.cs
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.sourcelink.json
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.dll
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\refint\vetoresMatrizes.dll
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.pdb
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\vetoresMatrizes.genruntimeconfig.cache
+C:\Users\igor.xsantos1\source\repos\vetoresMatrizes\obj\Debug\net8.0\ref\vetoresMatrizes.dll
