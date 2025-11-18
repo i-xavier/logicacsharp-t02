@@ -22,11 +22,11 @@ foreach (var nome in nomes)
     Console.WriteLine(nome);
 
 //Ordenação do vetor de números
-Array.Sort(numeros);
+/*Array.Sort(numeros);
 Console.WriteLine("Vetor de Números Ordenados:\n");
 foreach (var n in numeros) { 
     Console.WriteLine(n);
-}
+}*/
 
 int valorProcurado = 5;
 int posicaoSequencial = PesquisaSequencial(numeros, valorProcurado);
